@@ -1,4 +1,4 @@
 langchain
 streamlit
 python-dotenv
-openai
+langchain-community
